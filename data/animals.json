@@ -117,6 +117,16 @@
         "sad"
       ],
       "id": "11"
+    },
+    {
+      "name": "Kevin",
+      "species": "Unicorn",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
