@@ -1,7 +1,17 @@
-# Zookeeper - a Zoo animal catalog
+# Zookeeper 
+a Zoo animal catalog
 
-### This app will use allow you to view and add animals and zookeepers at this zoo.
-### Uses form input for entering animals and zookeepers and feild searches to display search results.
+### User Story
+As a user I need a web app to keep track of my Zoo. When I load the web page I should be presented with options to Biew Animals at the Zoo, View Zookeepers. I should also have the option to Enter an Animal or Enter a Zookeeper. When I view animals I should see a list of cards with each animal, their species, diet and personality traits. There should be a side bar filter where I can filter animals by diet or personaility traits. When I view all Zookeepers I am presented with a list cards displaying the zookeeper's name, age and favorite animal. I should also have a sidebar to search by name or age.
+
+### Features
+This web app will keep track of a zoo, their animals and theikr zookeepers.
+The main page will Have an overview header.
+The main section contains a link to view all animals, view all zookeepers, enter an animal or enter a zookeeper.
+When viewing Animals, you are presented with a list of cards for each animal displaying their name, species, diet, and personaility traits.
+On this page here is a side bar filter that you can filter animals based on specific diet or personaility traits.
+When viewing Zookeepers, you are presented wih a list of cards for each zookeeper displaying their name, age and favorite animal.
+On this page their is a side bar searxch where you can search for zookeepers by name or by age.
 
 
 ### badges
@@ -19,13 +29,27 @@
 - [Questions](#questions)
 
 ### Installation
-To use this app, you would have to clone the github repo and run it from the command line. using the local server as a host 'MPM start' and use the address bar path: http://localhost:3001/"
+1. Clone the repo here : https://github.com/Vinyldude8896/zookeepr <br />
+2. Install depenencies using npm istall. <br />
+3. from the root folder run npm start <br />
 
 
 ### Contribution Guidelines
-N/A as of yet
+Current contributers:
+Kevin Reid : https://github.com/Vinyldude8896 <br />
+
+
 ### Testing
-Multiple days were spent testing to ensure proper data was being written to the ReadMe.md file.
+To test this app:<br />
+1. Clone the repo here : https://github.com/Vinyldude8896/zookeepr <br />
+2. Install depenencies using npm istall. <br />
+3. from the root folder run npm start <br />
+4. Browser should open to this page: http://localhost:3001 <br />
+5. Try nagigation around the site <br />
+6. Test viewing Animals and Zookeepers
+7. Try adding a new animal
+8. try adding a new zookeeper
+
 ### Questions
     email address : kevinnivek@me.com
     - additional instructions 
